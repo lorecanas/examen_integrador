@@ -1,5 +1,5 @@
 # examen_integrador
-Examen_final_Grupo9
+GRUPO 9
 
 Angie Lorena Cañas Pabon
 Elizabeth Alvarez Diaz
